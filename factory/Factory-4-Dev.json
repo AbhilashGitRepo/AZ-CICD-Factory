@@ -1,0 +1,9 @@
+{
+	"name": "Factory-4-Dev",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff7f8b96-acac-4d08-a2f2-37384ecd25ca",
+		"tenantId": "4008c079-45a2-4a58-b2c3-35c9cd94694d"
+	}
+}
